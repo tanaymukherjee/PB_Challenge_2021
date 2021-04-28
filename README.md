@@ -18,7 +18,7 @@ Practicing on the PB practice data set for the upcoming challenge
 1. A csv file with the meter id and the [fail_7 column forecast](https://github.com/tanaymukherjee/PB_Challenge_2021/blob/main/Submission_prediction_result_devices.csv) for the meters in the test set.
 2. [Python notebook](https://github.com/tanaymukherjee/PB_Challenge_2021/blob/main/PB_Challenge_2021_Team2.ipynb) with code and sufficient documentation.
 3. Single page [poster](https://github.com/tanaymukherjee/PB_Challenge_2021/blob/main/Lean%20canvas_PB%20Challenge_Team2.pdf) summarizing work done and techniques implemented which will be used for presentation on the final day.
-4. 5 minute video presenting the work done.
+4. [Video](https://vimeo.com/542479668) presentation for the work done.
 
 ## Additional Exercise: Design Thinking
 **Problem:** Consumers complain about device failures that had been installed months ago.
@@ -29,7 +29,7 @@ Practicing on the PB practice data set for the upcoming challenge
 - Reason 3:
   * Data is available but engineering team designated to fix is not communicated.
 - Reason 4:
-  * Data and engineering team is aware, but consumer hasn't responded or been pro-active about their meters
+  * Data and engineering team is aware, but consumer hasn't responded or been pro-active about their meters.
 - Reason 5:
   * Lack of awareness that the device installed in the past needs maintenance.
    * [x] Root cause
